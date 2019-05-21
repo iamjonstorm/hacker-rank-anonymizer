@@ -1,0 +1,15 @@
+.cname,
+.test-report-summary .mini-padded tbody tr:nth-child(1) td:nth-child(2){
+    color: transparent !important;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5) !important;
+}
+
+.report-header .pull-left {
+    color: transparent !important;
+    text-shadow: 0 0 10px rgba(0,0,0,0.5) !important;
+}
+
+.test-report-crumbs,
+.test-report-summary .mini-padded tbody tr:nth-child(2) td:nth-child(2) {
+    display: none;
+}
